@@ -87,18 +87,3 @@ Below is a concise overview of every implemented algorithm and what each exercis
    - Execute cells top-to-bottom. Each notebook includes explanatory markdown, the implementation and simple timing/verification cells.
    - Modify input sizes and parameters (array sizes, number of transactions, gap sequences, load factors) to reproduce or extend experiments.
 
----
-
-## Suggested next steps / improvements
-
-- Add visualization of sorting progress, tree rotations and skip-list levels to improve intuition.
-- Implement additional structures: red-black trees, tries with compressed nodes (radix trees), cuckoo hashing.
-- Compare memory usage and cache behavior (profile memory / use larger datasets).
-- Add unit tests and CI to ensure correctness across changes.
-
----
-
-If you want, I can:
-- produce a shorter “one-page” README,
-- add example commands and minimal runtime snippets,
-- or generate visualizations and a short tutorial to include in the repository.
